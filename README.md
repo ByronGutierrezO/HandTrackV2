@@ -1,4 +1,6 @@
-# 🖱️ AI Virtual Mouse Controller
+# 🖱️ Sistema de Control Gestual Simulado para Interfaces Industriales usando OpenCV y Mediapipe
+
+Autores: Byron Gutierrez -  Mauricio Pilapaña.
 
 Un controlador de mouse sin contacto que utiliza visión por computadora y reconocimiento de gestos de mano. Este proyecto permite mover el cursor y hacer clic simplemente usando tu cámara web, ideal para presentaciones o interacciones sin contacto.
 
